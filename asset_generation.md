@@ -29,3 +29,4 @@ limited palette, sharp pixels, no blur, no smoothing, no gradients.
 CONSISTENCY: this is the master reference for the entire "fLoW" art set;
 all later sprites (zombies, armored player, props) must match this exact
 style, perspective, and palette.
+
