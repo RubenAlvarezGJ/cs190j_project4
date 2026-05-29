@@ -10,7 +10,7 @@ The most-reused asset in the game. Plan the body once, then swap **gear skins** 
 - [X] Idle — 4 dir
 - [X] Walk — 4 dir
 - [ ] Dash - 4 dir
-- [ ] Mine — 4 dir *(pickaxe skins only)*
+- [X] Mine — 4 dir *(pickaxe skins only)*
 - [ ] Attack — pickaxe — 4 dir
 - [ ] Attack — katana — 4 dir
 - [ ] Hurt / knockback — 4 dir (or 1 reusable)
