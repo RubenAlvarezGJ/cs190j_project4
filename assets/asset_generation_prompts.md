@@ -30,7 +30,7 @@ CONSISTENCY: this is the master reference for the entire "fLoW" art set;
 all later sprites (zombies, armored player, props) must match this exact
 style, perspective, and palette.
 
-## Move down animation
+## walking animations
 
 16-bit SNES-era pixel art, top-down overhead 3/4 perspective in the visual style
 of The Legend of Zelda: A Link to the Past. A four-direction WALK-CYCLE sprite
