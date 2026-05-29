@@ -7,8 +7,9 @@ Style assumptions baked into this list: **4-directional sprites** (up / down / l
 The most-reused asset in the game. Plan the body once, then swap **gear skins** (see note below).
 
 ### Core animation set (per gear skin)
-- [ ] Idle — 4 dir
-- [ ] Walk / run — 4 dir
+- [X] Idle — 4 dir
+- [X] Walk — 4 dir
+- [ ] Dash - 4 dir
 - [ ] Mine — 4 dir *(pickaxe skins only)*
 - [ ] Attack — pickaxe — 4 dir
 - [ ] Attack — katana — 4 dir
