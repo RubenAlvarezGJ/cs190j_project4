@@ -61,3 +61,128 @@ cool accent. Gritty, decayed, abandoned-world tone; threatening but stylized and
 rated T-for-Teen, never gory. Sprite roughly 24 px tall in a 32×32 px cell,
 rendered larger and downscaled cleanly. Match the attached idle sprite's
 proportions, outfit, colors, and pickaxe.
+
+## mining animations
+
+16-bit SNES-era pixel art, top-down overhead 3/4 perspective, in the visual
+lineage of The Legend of Zelda: A Link to the Past. Hand-pixeled look, clean
+outlines, nearest-neighbor scaling (no anti-aliasing, no blur, no smoothing).
+
+SUBJECT — match the attached idle reference exactly: a young post-apocalyptic
+scavenger with messy/spiky dark-brown hair, an olive-green bandana scarf around
+the neck and lower face, a worn brown leather jacket with a crossbody strap over
+a faded gray undershirt, tattered charcoal-navy trousers, and worn brown boots
+wrapped at the ankles. He wields a pickaxe with a wooden handle and a gray steel
+head. Keep his face, proportions, outfit, and colors identical to the reference.
+
+PALETTE + MOOD — desaturated and gritty: rust browns, ash grays, faded olive,
+weathered tones. The olive scarf is the single consistent accent; optional faint
+warm dust/spark at the impact frame only. Tense post-apocalyptic survival feel,
+T-for-Teen, no gore.
+
+FORMAT — one horizontal sprite sheet, 4 frames in a single 1×4 row, evenly
+spaced, every frame the same dimensions, with the character's feet aligned on the
+same baseline across all four frames (consistent pivot for clean looping). Fully
+transparent background. Match the resolution and per-character detail level of the
+attached idle sprite. Crisp pixel art only — no background, no sheet border, no
+frame labels.
+
+CONSISTENCY — must match the existing fLoW player sprite and the game's cohesive
+16-bit muted/decayed art set: same character identity, palette, perspective, scale.
+
+FACING — faces the viewer (front); face and scarf visible, like the front idle
+reference.
+
+ACTION — a 4-frame mining (pickaxe-swing) animation, swinging toward the bottom
+of the frame (toward the viewer), forming one continuous loopable cycle:
+  1. Wind-up — pickaxe raised up and back over the right shoulder, knees slightly
+     bent, weight loaded.
+  2. Down-swing — torso leaning forward, both arms driving the pickaxe down and
+     toward the viewer in an arc.
+  3. Impact — pickaxe head strikes the ground directly in front of his feet at
+     full extension; small, subtle dust/impact puff at the strike point.
+  4. Recovery — pickaxe drawn back slightly, body easing toward neutral, ready to
+     loop back to frame 1.
+
+---
+
+16-bit SNES-era pixel art, top-down overhead 3/4 perspective, in the visual
+lineage of The Legend of Zelda: A Link to the Past. Hand-pixeled look, clean
+outlines, nearest-neighbor scaling (no anti-aliasing, no blur, no smoothing).
+
+SUBJECT — match the attached idle reference exactly: a young post-apocalyptic
+scavenger with messy/spiky dark-brown hair, an olive-green bandana scarf around
+the neck and lower face, a worn brown leather jacket with a crossbody strap over
+a faded gray undershirt, tattered charcoal-navy trousers, and worn brown boots
+wrapped at the ankles. He wields a pickaxe with a wooden handle and a gray steel
+head. Keep his face, proportions, outfit, and colors identical to the reference.
+
+PALETTE + MOOD — desaturated and gritty: rust browns, ash grays, faded olive,
+weathered tones. The olive scarf is the single consistent accent; optional faint
+warm dust/spark at the impact frame only. Tense post-apocalyptic survival feel,
+T-for-Teen, no gore.
+
+FORMAT — one horizontal sprite sheet, 4 frames in a single 1×4 row, evenly
+spaced, every frame the same dimensions, with the character's feet aligned on the
+same baseline across all four frames (consistent pivot for clean looping). Fully
+transparent background. Match the resolution and per-character detail level of the
+attached idle sprite. Crisp pixel art only — no background, no sheet border, no
+frame labels.
+
+CONSISTENCY — must match the existing fLoW player sprite and the game's cohesive
+16-bit muted/decayed art set: same character identity, palette, perspective, scale.
+
+FACING — faces away (back view); we see the back of his spiky hair, the jacket
+back with the crossbody strap, and the scarf at the neck/shoulders, like the back
+idle reference. Face NOT visible.
+
+ACTION — a 4-frame mining (pickaxe-swing) animation, swinging toward the top of
+the frame (away from the viewer), forming one continuous loopable cycle:
+  1. Wind-up — pickaxe raised up and back over the shoulder, weight loaded.
+  2. Down-swing — torso leaning forward and away, arms driving the pickaxe down
+     toward the top of the frame in an arc.
+  3. Impact — pickaxe head strikes the ground just ahead of him (upper area of
+     frame) at full extension; small, subtle dust/impact puff.
+  4. Recovery — pickaxe drawn back slightly, body easing toward neutral, ready to
+     loop back to frame 1.
+
+---
+
+16-bit SNES-era pixel art, top-down overhead 3/4 perspective, in the visual
+lineage of The Legend of Zelda: A Link to the Past. Hand-pixeled look, clean
+outlines, nearest-neighbor scaling (no anti-aliasing, no blur, no smoothing).
+
+SUBJECT — match the attached idle reference exactly: a young post-apocalyptic
+scavenger with messy/spiky dark-brown hair, an olive-green bandana scarf around
+the neck and lower face, a worn brown leather jacket with a crossbody strap over
+a faded gray undershirt, tattered charcoal-navy trousers, and worn brown boots
+wrapped at the ankles. He wields a pickaxe with a wooden handle and a gray steel
+head. Keep his face, proportions, outfit, and colors identical to the reference.
+
+PALETTE + MOOD — desaturated and gritty: rust browns, ash grays, faded olive,
+weathered tones. The olive scarf is the single consistent accent; optional faint
+warm dust/spark at the impact frame only. Tense post-apocalyptic survival feel,
+T-for-Teen, no gore.
+
+FORMAT — one horizontal sprite sheet, 4 frames in a single 1×4 row, evenly
+spaced, every frame the same dimensions, with the character's feet aligned on the
+same baseline across all four frames (consistent pivot for clean looping). Fully
+transparent background. Match the resolution and per-character detail level of the
+attached idle sprite. Crisp pixel art only — no background, no sheet border, no
+frame labels.
+
+CONSISTENCY — must match the existing fLoW player sprite and the game's cohesive
+16-bit muted/decayed art set: same character identity, palette, perspective, scale.
+
+FACING — side / three-quarter view facing RIGHT; profile of the scarf and jacket,
+face partly visible.
+
+ACTION — a 4-frame mining (pickaxe-swing) animation with the swing arcing on the
+RIGHT side of the body, forming one continuous loopable cycle:
+  1. Wind-up — pickaxe raised high, up and back over the shoulder (toward
+     upper-left), body coiled.
+  2. Down-swing — pickaxe arcing down and to the right across the front of the body.
+  3. Impact — pickaxe head strikes the ground to his right at full extension; small,
+     subtle dust/impact puff at the strike point.
+  4. Recovery — pickaxe lifting back slightly, body easing toward neutral, ready to
+     loop back to frame 1.
