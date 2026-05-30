@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://d8148ligf3qs"
-path="res://.godot/imported/player_up.png-89d4f3c42910f2e8496e18756da9b092.ctex"
+uid="uid://bh35hy2g6chkj"
+path="res://.godot/imported/player_mine_up.png-8899b004f10447bccc41567e691530ea.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/sprites/player/player_up.png"
-dest_files=["res://.godot/imported/player_up.png-89d4f3c42910f2e8496e18756da9b092.ctex"]
+source_file="res://assets/sprites/player/mining_base/player_mine_up.png"
+dest_files=["res://.godot/imported/player_mine_up.png-8899b004f10447bccc41567e691530ea.ctex"]
 
 [params]
 

@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://dqxtec7dj7hme"
-path="res://.godot/imported/player_mine_down.png-2b16dde05d46dd12cbb1fbd82e8a7ee6.ctex"
+uid="uid://h6rdl2174ylj"
+path="res://.godot/imported/player_down_spritesheet.png-ebe3f4c8c78c6ee25dab4a938f07efa6.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/sprites/player/player_mine_down.png"
-dest_files=["res://.godot/imported/player_mine_down.png-2b16dde05d46dd12cbb1fbd82e8a7ee6.ctex"]
+source_file="res://assets/sprites/player/walking_base/player_down_spritesheet.png"
+dest_files=["res://.godot/imported/player_down_spritesheet.png-ebe3f4c8c78c6ee25dab4a938f07efa6.ctex"]
 
 [params]
 
